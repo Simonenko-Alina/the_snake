@@ -1,2 +1,2 @@
-# alinka666
+# the_snake
 the_snake
